@@ -1,0 +1,12 @@
+{
+    "build_update": true,
+    "display_name": "Chat Novel",
+    "executable_name": "ChatNovel",
+    "include_update": false,
+    "packages": [
+        "renpy"
+    ],
+    "renpy": true,
+    "template": "english",
+    "version": "1.0"
+}
